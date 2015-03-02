@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1401389399 source:d:\fci\second term  second level\files structure\assi # 4\source codes for assi4\integration\user.cpp
+	"user.h"
+	<iostream>
+	<stdio.h>
+	<string.h>
+
+1401389378 d:\fci\second term  second level\files structure\assi # 4\source codes for assi4\integration\user.h
+	<iostream>
+
+1401389551 source:d:\fci\second term  second level\files structure\assi # 4\source codes for assi4\integration\main.cpp
+	<bits/stdc++.h>
+	<stdio.h>
+	<fstream>
+	"user.h"
+	<vector>
+	<string.h>
+
+1401392999 source:d:\fci\second term  second level\files structure\assi # 4\cs215-2014-desouki-g14-20120376\integration\user.cpp
+	"user.h"
+	<iostream>
+	<stdio.h>
+	<string.h>
+
+1401392978 d:\fci\second term  second level\files structure\assi # 4\cs215-2014-desouki-g14-20120376\integration\user.h
+	<iostream>
+
+1401385799 source:c:\users\maryam\documents\github\supermarketsystem\super market system\user.cpp
+	"user.h"
+	<iostream>
+	<stdio.h>
+	<string.h>
+
+1401385778 c:\users\maryam\documents\github\supermarketsystem\super market system\user.h
+	<iostream>
+
